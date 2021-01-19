@@ -18,6 +18,7 @@ This is a fully responsive todo list application, built with React, and Material
 
 ## Usage
 
+![todolist demo](./public/demo.gif)
 This application allow user add and remove to-do items from the list, and also save them so they reload for later.
 
 ## Installation
@@ -35,8 +36,10 @@ To install necessary dependencies, run the following command:
 To run test, run the follwoing command:
 
       npm test
-      
+
+
 ## Deployed Application
+
 [Todo List](https://zhuxiaoyu1019.github.io/todolist-react/)
 
 ## Questions
