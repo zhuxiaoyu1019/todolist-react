@@ -12,6 +12,7 @@ This is a fully responsive todo list application, built with React, and Material
 - [Installation](#installation)
 - [Contributing](#contributing)
 - [Tests](#tests)
+- [Deployed Application](#Deployed-Application)
 - [Questions](#questions)
 - [License](#license)
 
@@ -34,6 +35,9 @@ To install necessary dependencies, run the following command:
 To run test, run the follwoing command:
 
       npm test
+      
+## Deployed Application
+[Todo List](https://zhuxiaoyu1019.github.io/todolist-react/)
 
 ## Questions
 
