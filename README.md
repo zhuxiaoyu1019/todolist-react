@@ -12,7 +12,6 @@ This is a fully responsive todo list application, built with React, and Material
 - [Usage](#usage)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 - [License](#license)
 
@@ -34,12 +33,6 @@ To install necessary dependencies, run the following command:
 ## Contributing
 
       folk / pull
-
-## Tests
-
-To run test, run the follwoing command:
-
-      npm test
 
 ## Questions
 
